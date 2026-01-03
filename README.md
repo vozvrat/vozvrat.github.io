@@ -4,8 +4,10 @@
 graph TD;
 A-->B;
 A-->C;
-B-->D;
-C-->D;
+A-->D;
+B-->E;
+C-->E;
+D-->E;
 </pre>
 
 <script type="module">
