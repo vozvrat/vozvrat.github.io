@@ -2,9 +2,9 @@
 
 <pre class="mermaid">
 graph TD;
-A-->B;
-A-->C;
-A-->D;
+METKA-->B;
+METKA-->C;
+METKA-->D;
 B-->E;
 C-->E;
 D-->E;
