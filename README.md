@@ -5,9 +5,9 @@ graph TD;
 METKA-->B;
 METKA-->C;
 METKA-->D;
-B-->E;
-C-->E;
-D-->E;
+B-->МЕТКА;
+C-->МЕТКА;
+D-->МЕТКА;
 </pre>
 
 <script type="module">
